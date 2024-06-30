@@ -1,0 +1,6 @@
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.pdb
