@@ -64,10 +64,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
-      <Project>{7243dd35-387e-4945-8105-a4a831f37084}</Project>
-      <Name>BusinessLayer</Name>
-    </ProjectReference>
     <ProjectReference Include="..\EntityLayer\EntityLayer.csproj">
       <Project>{402128A7-7A7E-4D84-A28C-0EE4CE2D09AC}</Project>
       <Name>EntityLayer</Name>

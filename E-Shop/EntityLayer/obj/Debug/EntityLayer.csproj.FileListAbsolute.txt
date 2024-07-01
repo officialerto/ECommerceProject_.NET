@@ -10,5 +10,3 @@ D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityFramework.Sql
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityFramework.xml
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLa.DA06A3F2.Up2Date
-D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\BusinessLayer.dll
-D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\BusinessLayer.pdb

@@ -80,3 +80,6 @@ D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\DataAccessLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\EntityLayer.pdb
 D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\EntityLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\EntityFramework.xml
+D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\BusinessLayer.dll.config
+D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml

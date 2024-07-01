@@ -13,7 +13,5 @@ D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityLayer.dll
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.xml
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
-D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\BusinessLayer.dll
-D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\BusinessLayer.pdb
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initial.resources
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
