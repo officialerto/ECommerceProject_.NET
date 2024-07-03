@@ -1,10 +1,6 @@
+D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.dll
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
-D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
-D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
-D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.dll
-D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.dll
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityLayer.dll
@@ -12,6 +8,10 @@ D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityLayer.pdb
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.xml
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
-D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.initial.resources
 D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Github\ECommerceProject_.NET\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

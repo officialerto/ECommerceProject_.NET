@@ -1,12 +1,12 @@
+D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityLayer.dll
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityLayer.pdb
-D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
-D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
-D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLayer.dll
-D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLayer.pdb
-D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityFramework.dll
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityFramework.xml
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
 D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLa.DA06A3F2.Up2Date
+D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Github\ECommerceProject_.NET\E-Shop\EntityLayer\obj\Debug\EntityLayer.pdb

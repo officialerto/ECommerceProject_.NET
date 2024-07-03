@@ -1,10 +1,6 @@
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.pdb
-D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
-D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
-D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.dll
-D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.pdb
-D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\BusinessLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\DataAccessLayer.dll
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\EntityFramework.dll
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
@@ -15,4 +11,8 @@ D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\EntityLayer.pdb
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\EntityLayer.dll.config
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\EntityFramework.xml
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Github\ECommerceProject_.NET\E-Shop\BusinessLayer\obj\Debug\BusinessLayer.pdb
