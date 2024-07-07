@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|D:\\Github\\ECommerceProject_.NET\\E-Shop\\e-shop\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|D:\\Github\\ECommerceProject_.NET\\E-Shop\\e-shop\\views\\admincategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\admincategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|D:\\Github\\ECommerceProject_.NET\\E-Shop\\e-shop\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,23 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminCategory\\Index.cshtml",
               "RelativeDocumentMoniker": "E-Shop\\Views\\AdminCategory\\Index.cshtml",
               "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminCategory\\Index.cshtml",
               "RelativeToolTip": "E-Shop\\Views\\AdminCategory\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T23:53:10.858Z"
+              "WhenOpened": "2024-06-30T23:53:10.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminCategory\\Update.cshtml",
               "RelativeDocumentMoniker": "E-Shop\\Views\\AdminCategory\\Update.cshtml",
@@ -50,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminCategoryController.cs",
               "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\AdminCategoryController.cs",
               "RelativeDocumentMoniker": "E-Shop\\Controllers\\AdminCategoryController.cs",
               "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\AdminCategoryController.cs",
               "RelativeToolTip": "E-Shop\\Controllers\\AdminCategoryController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T21:49:16.144Z",
               "EditorCaption": ""
