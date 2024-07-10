@@ -16,7 +16,7 @@
 
                 <div class="form-group ">
                     <label>Ad</label>
-                    <input type="text" name="Name" class="form-control" value="@Model.Name"/>
+                    <input type="text" name="Name" class="form-control" value="@Model.Name" />
                     @Html.ValidationMessageFor(x => x.Name, "", new { @style = "color:red" })
 
                 </div>
@@ -28,8 +28,8 @@
                 </div>
 
                 <br />
-                <button type="submit" class="btn-outline-primary">Güncelle</button>
-
+                <button type="submit" class="btn btn-success">Güncelle</button>
+                <a class="btn btn-primary" href="/AdminCategory/Index">İptal Et</a>
             </form>
         </div>
     </div>

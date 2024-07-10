@@ -12,6 +12,11 @@ namespace EntityLayer.Entities
         [Key]
         public int Id { get; set; }
 
+        [Display(Name = "Ad")]
+        [Required(ErrorMessage = "Boş geçilemez!")]
+        [StringLength(50, ErrorMessage = "Maksimum 50 karakter olabilir!")]
+        public string Name { get; set; }
+
         [Display(Name = "Açıklama")]
         [Required(ErrorMessage = "Boş geçilemez!")]
         [StringLength(50, ErrorMessage = "Maksimum 50 karakter olabilir!")]
@@ -37,9 +42,7 @@ namespace EntityLayer.Entities
         [Required(ErrorMessage = "Boş geçilemez!")]
         public string Image { get; set; }
 
-        [Display(Name = "Adet")]
-        [Required(ErrorMessage = "Boş geçilemez!")]
-        public int Quantity { get; set; }
+
 
         public int CategoryId { get; set; }
 

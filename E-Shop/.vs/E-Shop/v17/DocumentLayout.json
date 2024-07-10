@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|D:\\Github\\ECommerceProject_.NET\\E-Shop\\e-shop\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|D:\\Github\\ECommerceProject_.NET\\E-Shop\\e-shop\\views\\admincategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\admincategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminCategory\\Index.cshtml",
-              "RelativeDocumentMoniker": "E-Shop\\Views\\AdminCategory\\Index.cshtml",
-              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminCategory\\Index.cshtml",
-              "RelativeToolTip": "E-Shop\\Views\\AdminCategory\\Index.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBUAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T23:53:10.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminCategory\\Update.cshtml",
-              "RelativeDocumentMoniker": "E-Shop\\Views\\AdminCategory\\Update.cshtml",
-              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminCategory\\Update.cshtml",
-              "RelativeToolTip": "E-Shop\\Views\\AdminCategory\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T23:52:49.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminCategoryController.cs",
-              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\AdminCategoryController.cs",
-              "RelativeDocumentMoniker": "E-Shop\\Controllers\\AdminCategoryController.cs",
-              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\AdminCategoryController.cs",
-              "RelativeToolTip": "E-Shop\\Controllers\\AdminCategoryController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAAAgAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Shop\\Views\\AdminProduct\\Index.cshtml",
+              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeToolTip": "E-Shop\\Views\\AdminProduct\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T20:05:11.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminProductController.cs",
+              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\AdminProductController.cs",
+              "RelativeDocumentMoniker": "E-Shop\\Controllers\\AdminProductController.cs",
+              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\AdminProductController.cs",
+              "RelativeToolTip": "E-Shop\\Controllers\\AdminProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T21:49:16.144Z",
+              "WhenOpened": "2024-07-10T15:38:28.224Z",
               "EditorCaption": ""
             }
           ]
