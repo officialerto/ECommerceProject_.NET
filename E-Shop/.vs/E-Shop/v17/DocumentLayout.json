@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminProduct\\Index.cshtml",
-              "RelativeDocumentMoniker": "E-Shop\\Views\\AdminProduct\\Index.cshtml",
-              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\AdminProduct\\Index.cshtml",
-              "RelativeToolTip": "E-Shop\\Views\\AdminProduct\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Shop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-Shop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T20:05:11.002Z",
+              "WhenOpened": "2024-07-11T12:33:26.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminProductController.cs",
-              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\AdminProductController.cs",
-              "RelativeDocumentMoniker": "E-Shop\\Controllers\\AdminProductController.cs",
-              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\AdminProductController.cs",
-              "RelativeToolTip": "E-Shop\\Controllers\\AdminProductController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAfAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "E-Shop\\Views\\Product\\ProductDetails.cshtml",
+              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeToolTip": "E-Shop\\Views\\Product\\ProductDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T12:30:34.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E-Shop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "E-Shop\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:38:28.224Z",
+              "WhenOpened": "2024-07-11T12:29:26.634Z",
               "EditorCaption": ""
             }
           ]

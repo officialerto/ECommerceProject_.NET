@@ -1,4 +1,7 @@
-﻿@model List<EntityLayer.Entities.Product>
+﻿@using PagedList
+@using PagedList.Mvc
+
+@model IPagedList<EntityLayer.Entities.Product>
 
 @{
     ViewBag.Title = "Index";
@@ -68,3 +71,4 @@
 
 </table>
 
+@Html.PagedListPager(Model, sayfa => Url.Action("Index", new { sayfa }), PagedListRenderOptions.Classic)

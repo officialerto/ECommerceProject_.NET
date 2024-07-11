@@ -83,3 +83,7 @@ D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompil
 D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.Up2Date
 D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\obj\Debug\E-Shop.dll
 D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\PagedList.dll
+D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\PagedList.xml
+D:\Github\ECommerceProject_.NET\E-Shop\E-Shop\bin\PagedList.Mvc.xml
