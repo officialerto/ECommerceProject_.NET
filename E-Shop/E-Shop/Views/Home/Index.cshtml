@@ -7,7 +7,6 @@
     Layout = "~/Views/Shared/Layout.cshtml";
 }
 
-
 <section id="slider">
     <!--slider-->
     <div class="container">
@@ -103,8 +102,6 @@
                     }
 
                     @Html.PagedListPager(Model, sayfa => Url.Action("Index", new { sayfa }), PagedListRenderOptions.Classic)
-
-
 
                 </div>
 

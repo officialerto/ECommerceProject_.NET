@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|D:\\Github\\ECommerceProject_.NET\\E-Shop\\e-shop\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|d:\\github\\ecommerceproject_.net\\e-shop\\e-shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|D:\\Github\\ECommerceProject_.NET\\E-Shop\\e-shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAF09C4-C873-46DA-A749-9123940E0976}|E-Shop\\E-Shop.csproj|solutionrelative:e-shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Shop\\Views\\Shared\\Layout.cshtml",
+              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "E-Shop\\Views\\Shared\\Layout.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T11:54:17.238Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,36 +44,22 @@
               "RelativeDocumentMoniker": "E-Shop\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "E-Shop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFgAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T12:33:26.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Product\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "E-Shop\\Views\\Product\\ProductDetails.cshtml",
-              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Views\\Product\\ProductDetails.cshtml",
-              "RelativeToolTip": "E-Shop\\Views\\Product\\ProductDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T12:30:34.558Z",
+              "WhenOpened": "2024-07-12T11:54:00.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "E-Shop\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "E-Shop\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Shop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Github\\ECommerceProject_.NET\\E-Shop\\E-Shop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Shop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T12:29:26.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T11:53:57.432Z"
             }
           ]
         }
